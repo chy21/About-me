@@ -1,0 +1,156 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+img{}
+body{}
+header{
+    width: 100%;
+    box-shadow: 5px 5px 26px #c3c8c86b;
+    overflow: hidden;
+}
+.container{
+    width: 1050px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.header-section{}
+.logo{
+    width: 20%;
+    float: left;
+    padding: 5px 50px;
+}
+.logo img{
+    width: 130px;
+    height: 50px;
+}
+nav{
+    width: 80%;
+    float: left;
+    text-align: right;
+}
+nav ul{}
+nav ul li{list-style: none;display: inline-block;}
+nav ul li a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 25px;
+    color: #1478ba;
+}
+.about-section{}
+.left-info{
+    width: 50%;
+    float: left;
+    padding: 15px;
+}
+.left-info h1{
+    font-size: 41px;
+    padding: 0px;
+    color: #1076b9d1;
+}
+.left-info img{
+    width: 450px;
+    height: 500px;
+    padding: 35px;
+}
+.right-info{
+    width: 50%;
+    float: left;
+    padding: 15px;
+    text-align: center;
+}
+.right-info h3{
+    font-size: 50px;
+    text-align: center;
+    padding: 0px;
+    color: #1076b9c4;
+}
+.right-info p{
+    font-size: 27px;
+    padding: 13px;
+    line-height: 1.3;
+    color: #0000009c;
+}
+
+.info-section{
+    float: left;
+    text-align: center;
+    padding: 25px;
+}
+.info-section h1{
+    font-size: 80px;
+    padding: 20px;
+    color: #4796c9;
+}
+.info-section h1 span{
+	    color: #808080e8;
+}
+
+.info-section p{
+    font-size: 23px;
+    padding: 15px;
+    line-height: 1.3;
+    color: #000000b0;
+}
+.info-section img{}
+
+.col-section{}
+.left-col{
+    width: 50%;
+    float: left;
+    text-align: right;
+    padding: 15px;
+}
+.left-col h3{
+    font-size: 60px;
+    color: #8b8b8b;
+}
+.left-col p{
+    font-size: 23px;
+    color: #000000b0;
+}
+
+.right-col{
+    padding: 15px;
+    width: 50%;
+    float: left;
+}
+.right-col h2{
+    font-size: 64px;
+    color: #4b98ca;
+}
+
+section{}
+.row{}
+.col-4{
+    width: 33.33%;
+    float: left;
+    padding: 50px 0px;
+}
+.col-4 img{
+    width: 339px;
+    height: 230px;
+    padding: 10px;
+}
+.col-4 h2{
+    font-size: 34px;
+    padding: 10px 0px;
+    color: #4b98ca;
+    text-align: center;
+}
+.col-4 p{
+    font-size: 20px;
+    padding: 15px;
+    color: #000000b5;
+    text-align: center;
+}
+
+.footer{}
+.footer-section{
+    text-align: center;
+    font-size: 30px;
+    color: #4b98ca;
+}
+.footer-section h1{
+}
